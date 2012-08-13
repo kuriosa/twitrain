@@ -1,6 +1,7 @@
 twitrain 
-(by hans and dev)
 ========
+
+(by hans and dev)
 
 twitter client for terminal and android (sl4a & py4a)
 
