@@ -1,13 +1,13 @@
 twitrain
 ========
 
-twitter client for android
+twitter client for terminal and android (sl4a & py4a)
 
 This is a twitter client for terminal on python
 
-First ever twitter client for android on python coming up soon
-Check Android Optimized Code for the alpha preview
+Also check Android Optimized Code for the alpha preview of android scripts and help us improve it further.
 
-Any queries?
+Any queries or suggestions, please tweet us at
 
-mail us at zootlabs@gmail.com
+Dev Uberoi -> @devuberoi  &  Hans Gogia -> @hansg01
+
