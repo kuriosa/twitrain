@@ -1,4 +1,5 @@
-twitrain
+twitrain 
+(by hans and dev)
 ========
 
 twitter client for terminal and android (sl4a & py4a)
@@ -9,5 +10,5 @@ Also check Android Optimized Code for the alpha preview of android scripts and h
 
 Any queries or suggestions, please tweet us at
 
-Dev Uberoi -> @devuberoi  &  Hans Gogia -> @hansg01
+Dev Uberoi -> @devuberoi    |    Hans Gogia -> @hansg01
 
